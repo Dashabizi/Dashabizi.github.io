@@ -1,0 +1,31 @@
+body {
+	  	  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXIIbDkH8A3I8eTsHbgERfpBsMkBpmLfeBuVRqvK0FjoH4jIynHQ);
+	  	  font-family: Arial;
+	  	  font-size: 16px;
+	  }
+	  h1 {
+	  	color: #000080;
+	  	text-align: center;
+	  }
+	  h2 {
+	  	font-family: tunga;
+	  	 font-size:30px;
+	  	  color: #0000FF;
+	  	   font-style: italic;
+	  	    text-align: center;
+	  }
+	  .p1 {
+	  	font-size: 20px;
+	  	color: #0000CD;
+	  	font-weight: bold;
+	  }
+	  span {
+	  	color: #008000;
+	  }
+	  .img1 {
+    float: right;
+      } 
+      .img2 {
+    float: left;
+      }
+       
